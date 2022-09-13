@@ -12,8 +12,9 @@
 
   <h3>Before and After Pressing C(clear Button) <h3>
     
- ![Screenshot (218)](https://user-images.githubusercontent.com/95965521/189940511-aed92db4-3173-4690-88d0-b29b47afff51.png)   
- ![Screenshot (220)](https://user-images.githubusercontent.com/95965521/189940786-a3168afd-f95b-406c-a465-2533f8f99066.png)
+ ![Screenshot (218)](https://user-images.githubusercontent.com/95965521/189944613-7413ee93-afed-46be-a892-79b61f59fccd.png)
+![Screenshot (220)](https://user-images.githubusercontent.com/95965521/189944634-edd47caf-ec71-475a-8b98-a07f8056548b.png)
+
 
   <h3>Workflow of  DEl(delete Button) <h3>
     
