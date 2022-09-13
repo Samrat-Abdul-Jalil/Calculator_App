@@ -34,22 +34,20 @@
 ![Screenshot (228)](https://user-images.githubusercontent.com/95965521/189941808-58bdc8a3-e892-4453-be9b-39afe853c5ae.png)
 ![Screenshot (229)](https://user-images.githubusercontent.com/95965521/189941851-561e4172-d78d-4866-85d7-f06451edc8ec.png)
   
-   <h3>Subtraction Operation <h3>
-     ![Screenshot (232)](https://user-images.githubusercontent.com/95965521/189943323-63c436ce-0f26-42b5-8034-bb97e625c6f0.png)
+ <h3>Subtraction Operation <h3>
+     
+![Screenshot (232)](https://user-images.githubusercontent.com/95965521/189943323-63c436ce-0f26-42b5-8034-bb97e625c6f0.png)
 ![Screenshot (233)](https://user-images.githubusercontent.com/95965521/189943351-06356a9e-bdd2-4643-9de9-a17ef2bb843c.png)
 
-   <h3>multiplication Operation <h3>
+<h3>multiplication Operation <h3>
      
      
-        ![Screenshot (234)](https://user-images.githubusercontent.com/95965521/189943619-c5ec6ca1-444c-418c-9b6c-4d64107be15b.png)
+ ![Screenshot (234)](https://user-images.githubusercontent.com/95965521/189943619-c5ec6ca1-444c-418c-9b6c-4d64107be15b.png)
+ ![Screenshot (235)](https://user-images.githubusercontent.com/95965521/189944019-8887cf17-94d1-48f8-9384-815d8071d542.png)
 
-        ![Screenshot (235)](https://user-images.githubusercontent.com/95965521/189944019-8887cf17-94d1-48f8-9384-815d8071d542.png)
-
      
-     <h3>percentage Operation <h3>
+<h3>percentage Operation <h3>
        
-       
-     
 ![Screenshot (236)](https://user-images.githubusercontent.com/95965521/189943906-e7f3964c-43f1-48bf-8365-794846bcb765.png)
 ![Screenshot (237)](https://user-images.githubusercontent.com/95965521/189943943-13e63166-9542-472a-9f58-37aa6013eee3.png)
 
