@@ -15,7 +15,9 @@
 ![Screenshot (224)](https://user-images.githubusercontent.com/95965521/189941381-0b17d5ed-688d-402d-8833-30c79c0e0397.png)
 ![Screenshot (225)](https://user-images.githubusercontent.com/95965521/189941396-ba6f7db9-2e79-4f59-93d7-640a719ba86a.png)
 <h3>Dark Mode <h3>
+  
 ![Screenshot (226)](https://user-images.githubusercontent.com/95965521/189941536-68976b4f-cfc2-4165-9dec-68f1b1775a74.png)
+  
 <h3>exponential Operation (in dark mode) <h3>
 
 ![Screenshot (228)](https://user-images.githubusercontent.com/95965521/189941808-58bdc8a3-e892-4453-be9b-39afe853c5ae.png)
